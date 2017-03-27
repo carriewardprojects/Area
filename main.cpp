@@ -43,10 +43,7 @@ int main(int argc, const char * argv[]) {
     cout << "\n\nDecimal (base 10) value of length: " << baseLength << " is " << baseLength << endl;
     cout << "\nThe octal (base 8) value of length: "  << baseLength << " is " << showbase << oct << baseLength << endl;
     cout << "\nThe hexidecimal (base 16) value of length: " << baseLength << " is " << showbase << hex << baseLength << endl;
-    
-    
-    
-    
+   
     cout << "\n\n";
     return 0;
 }
